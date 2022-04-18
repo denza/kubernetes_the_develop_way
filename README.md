@@ -1,2 +1,2 @@
-# kubernetes_the_develop_way
+# Kubernetes the developer way
 Kubernetes the developer way
